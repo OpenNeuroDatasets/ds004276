@@ -1,0 +1,11 @@
+{
+    "Name": "Auditory single word recognition in MEG",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Phoebe Gaston",
+        "Christian Brodbeck",
+        "Colin Phillips",
+        "Ellen Lau"
+    ]
+}
