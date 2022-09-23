@@ -5,8 +5,8 @@ Stimuli and TextGrids are available from the Massive Auditory Lexical Decision d
 Converted to BIDS using MNE-BIDS (Appelhoff et al., 2019; Niso et al., 2018).
 
 
-References
-----------
+# References
+
 Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E., Gramfort, A. and Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software 4: (1896). https://doi.org/10.21105/joss.01896
 
 Gaston, P., Brodbeck, C., Phillips, C., & Lau, E. (2022). Auditory word comprehension is less incremental in isolated words. Neurobiology of Language
