@@ -11,5 +11,6 @@
     "Funding": [
         "NSF BCS-1749407"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004276.v1.0.0"
 }
