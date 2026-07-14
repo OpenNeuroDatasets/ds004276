@@ -1,4 +1,4 @@
-﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
 MEG 001	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 002	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a
 MEG 003	MEGGRADAXIAL	T	0.0	200.0	Axial Gradiometer	1000.0	good	n/a

@@ -7,10 +7,11 @@
         "Units": "years"
     },
     "sex": {
-        "Description": "Biological sex of the participant",
+        "Description": "Sex of the participant",
         "Levels": {
             "F": "female",
-            "M": "male"
+            "M": "male",
+            "O": "other"
         }
     },
     "hand": {
@@ -20,5 +21,13 @@
             "L": "left",
             "A": "ambidextrous"
         }
+    },
+    "weight": {
+        "Description": "Body weight of the participant",
+        "Units": "kg"
+    },
+    "height": {
+        "Description": "Body height of the participant",
+        "Units": "m"
     }
 }

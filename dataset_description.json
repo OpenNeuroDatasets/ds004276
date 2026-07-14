@@ -1,16 +1,24 @@
 {
     "Name": "Auditory single word recognition in MEG",
-    "BIDSVersion": "1.6.0",
+    "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
+    "License": "CC0",
     "Authors": [
         "Phoebe Gaston",
         "Christian Brodbeck",
         "Colin Phillips",
         "Ellen Lau"
     ],
-    "Funding": [
-        "NSF BCS-1749407"
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1162/nol_a_00084",
+        "https://doi.org/10.3758/s13428-018-1056-1"
     ],
-    "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004276.v1.0.0"
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.19.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "SourceDatasets": []
 }
