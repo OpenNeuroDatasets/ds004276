@@ -1,0 +1,6 @@
+1.1.0 2026-08-18
+  - fixed corrupted MEG files
+  - added words to events.tsv
+  - added template brain scaling parameters and trans files
+1.0.0 2022-09-23
+  - raw data & basic info
