@@ -20,5 +20,6 @@
             "CodeURL": "https://mne.tools/mne-bids/"
         }
     ],
-    "SourceDatasets": []
+    "SourceDatasets": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004276.v1.1.0"
 }
